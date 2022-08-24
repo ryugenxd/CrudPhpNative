@@ -8,3 +8,8 @@
 <p>
 
 ## alwaysDark 🤣
+
+```
+File konfigurasi ada di  folder module 
+```
+
